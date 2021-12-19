@@ -1,2 +1,1 @@
-# java14-todo-app-exam
-JAVA14 - GIT Exam 01
+VERSION: TODO-APP-2.0-SNAPSHOT
